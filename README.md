@@ -1,3 +1,2 @@
-# GameHubWebSite is a website for my discord server.
-# Is is done with HTML, Css and JavaScript.
-# You can visit the website in https://ghcommu.ga
+GamhubWebSite was one of my first Websites I have done using Basics of HTML, CSS and JavaScript.
+It is a simple Front-end Website with just 3 windows that are listing  
